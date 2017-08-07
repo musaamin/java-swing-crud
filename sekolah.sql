@@ -2,7 +2,7 @@
 -- Database: `sekolahx`
 --
 CREATE DATABASE IF NOT EXISTS `sekolah` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `sekolahx`;
+USE `sekolah`;
 
 --
 -- Table structure for table `siswa`
